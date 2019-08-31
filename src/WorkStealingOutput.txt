@@ -1,0 +1,24 @@
+
+Matrix size 128
+
+No of worker threads:4
+---------totaltime-----3
+---------Num of Tasks Executed-----129
+
+Matrix size 256
+
+No of worker threads:4
+---------totaltime-----7
+---------Num of Tasks Executed-----258
+
+Matrix size 512
+
+No of worker threads:4
+---------totaltime-----21
+---------Num of Tasks Executed-----515
+
+Matrix size 1024
+
+No of worker threads:4
+---------totaltime-----28
+---------Num of Tasks Executed-----1027

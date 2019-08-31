@@ -1,0 +1,6 @@
+
+Matrix size 1024
+
+No of worker threads:4
+---------totaltime-----21
+---------Num of Tasks Executed-----1027
